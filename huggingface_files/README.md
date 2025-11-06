@@ -91,7 +91,7 @@ decoded = tokenizer.decode(token_ids)
 
 ## Educational Project
 
-This project was created as part of TSAI LLM Training Session 11 to demonstrate:
+This project was created as part of TSAI ERA V4 Session 11 to demonstrate:
 - Understanding of subword tokenization algorithms
 - Implementation of BPE from scratch
 - Working with non-Latin scripts

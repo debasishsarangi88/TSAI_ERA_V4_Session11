@@ -168,7 +168,7 @@ Possible improvements:
 
 ## License
 
-This project is for educational purposes as part of TSAI LLM Training Session 11.
+This project is for educational purposes as part of TSAI ERA V4 Session 11.
 
 ## References
 

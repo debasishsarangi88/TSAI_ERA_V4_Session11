@@ -269,7 +269,7 @@ with gr.Blocks(title="Odia BPE Tokenizer", theme=gr.themes.Soft()) as demo:
     - ✅ Vocabulary size < 5,000 tokens
     - ✅ Compression ratio ≥ 3.2
     
-    **Created for**: TSAI LLM Training Session 11
+    **Created for**: TSAI ERA V4 Session 11
     
     **GitHub**: [View Source Code](https://github.com/yourusername/odia-bpe-tokenizer)
     """)
