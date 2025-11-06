@@ -97,6 +97,11 @@ This project was created as part of TSAI ERA V4 Session 11 to demonstrate:
 - Working with non-Latin scripts
 - Meeting specific compression and vocabulary size requirements
 
+## Source Code
+
+- **GitHub Repository**: [https://github.com/debasishsarangi88/TSAI_ERA_V4_Session11](https://github.com/debasishsarangi88/TSAI_ERA_V4_Session11)
+- **Live Demo**: [https://huggingface.co/spaces/Debasishsarangi88/odia_bpe_tokenizer](https://huggingface.co/spaces/Debasishsarangi88/odia_bpe_tokenizer)
+
 ## References
 
 - [Neural Machine Translation of Rare Words with Subword Units (Sennrich et al., 2016)](https://arxiv.org/abs/1508.07909)

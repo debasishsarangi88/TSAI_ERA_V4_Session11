@@ -17,6 +17,16 @@ This BPE tokenizer successfully meets all specified requirements:
 - **Corpus Size**: 62,755 bytes across 1,815 texts
 - **Perfect Decoding**: 100% accuracy in reconstruction
 
+## 🚀 Try it Online!
+
+**Live Demo on Hugging Face Spaces**: [https://huggingface.co/spaces/Debasishsarangi88/odia_bpe_tokenizer](https://huggingface.co/spaces/Debasishsarangi88/odia_bpe_tokenizer)
+
+Try the tokenizer interactively with your own Odia text! The web app provides:
+- Real-time tokenization and decoding
+- Token ID visualization
+- Compression ratio calculation
+- Detailed statistics
+
 ## Project Structure
 
 ```
