@@ -1,0 +1,8 @@
+{
+  "vocab_size": 3500,
+  "num_merges": 3439,
+  "compression_ratio": 20.160824108241084,
+  "requirements_met": true,
+  "corpus_texts": 1815,
+  "corpus_bytes": 65563
+}

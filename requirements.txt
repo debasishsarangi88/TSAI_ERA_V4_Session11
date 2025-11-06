@@ -1,0 +1,10 @@
+# Requirements for Odia BPE Tokenizer
+# Python 3.7+
+
+# No external dependencies required for basic BPE implementation
+# The implementation uses only Python standard library
+
+# Optional: for enhanced functionality
+# numpy>=1.19.0
+# matplotlib>=3.3.0  # For visualization if needed
+
